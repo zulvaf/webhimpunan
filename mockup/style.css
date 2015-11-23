@@ -1,0 +1,18 @@
+/*
+    Theme Name: Drifolio Bootstrap
+    Theme URI: http://charityandbiscuits.com
+    Description: A handrolled WordPress Twitter Bootstrap theme based on the tutorial at http://www.charityandbiscuits.com
+    Version: 1.0
+    Tags: responsive, white, bootstrap
+     
+    License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+    License URI: http://creativecommons.org/licenses/by-sa/3.0/
+     
+    Some other comments or urls here that will prove useful reminders to you or another developer
+*/
+
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css");
+@import url('css/preloader.css');
+@import url('css/style.css');
+@import url('css/responsive.css');
+@import url('css/animate.css');
